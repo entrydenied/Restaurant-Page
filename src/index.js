@@ -1,3 +1,7 @@
-const sup = "whaddup";
+import "./styles/style.css";
+import home from "./pages/home";
+import render from "./functions/render";
 
-console.log(sup);
+
+home();
+
